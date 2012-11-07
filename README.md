@@ -13,3 +13,7 @@ This is hand build. Installed with defaults, then the following command run:
     esxcfg-advcfg -s 1 /Net/FollowHardwareMac
 
 No licence installed.
+
+### Oneiric32
+
+Build via veewee, tools installed manually.
