@@ -16,6 +16,8 @@ No licence installed.
 
 ### Oneiric32
 
+[http://s3.lstoll.net/tenderloin/oneiric32.box](http://s3.lstoll.net/tenderloin/oneiric32.box)
+
 Build via veewee, tools installed manually.
 
 ### Oneiric64
