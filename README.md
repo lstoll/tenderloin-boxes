@@ -23,3 +23,9 @@ Build via veewee, tools installed manually.
 [http://s3.lstoll.net/tenderloin/oneiric64.box](http://s3.lstoll.net/tenderloin/oneiric64.box)
 
 Build via veewee, tools installed manually.
+
+### Precise64
+
+[http://s3.lstoll.net/tenderloin/precise64.box](http://s3.lstoll.net/tenderloin/precise64.box)
+
+Build via veewee, tools installed manually.
